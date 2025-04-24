@@ -1,7 +1,7 @@
 # Maintainer: Chris Watson <cawatson1993@gmail.com>
 
 pkgname=windsurf
-pkgver=1.7.0
+pkgver=99.99.99
 pkgrel=1
 pkgdesc="The new purpose-built IDE to harness magic"
 arch=('x86_64')
@@ -52,7 +52,7 @@ source=(
     "https://windsurf-stable.codeiumdata.com/wVxQEIWkwPUEAGf3/apt/pool/main/w/windsurf/Windsurf-linux-x64-${pkgver}.deb"
 )
 
-sha256sums=(
+sha256sums=('abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890')
     '0474c981ec77999c3f7c16964bce09ebac985eb3b60185d1205ba814177f9d6e'
 )
 
